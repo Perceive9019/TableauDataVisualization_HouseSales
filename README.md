@@ -3,7 +3,7 @@
 In this project, we will use the house sales dataset from King County, Washington to analyze real estate data. This dataset contains information on over 21,000 single-family homes sold in King County, Washington between 2014 and 2015. 
 ## Cover Image
 
-![House image-unsplash.jpg](House image-unsplash.jpg)
+![House image-unsplash.jpg](https://github.com/Perceive9019/TablueaDataVisualization_HouseSales/blob/main/House%20image-unsplash.jpg)
 ## Data
 This dataset contains house sale prices for King County, Washington, including Seattle. It includes homes sold between May 2014 and May 2015. The dataset includes information on over 21,000 homes, and each record includes a variety of features about the home, such as:
 
